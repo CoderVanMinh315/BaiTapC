@@ -1,0 +1,2 @@
+# BaiTapC
+Nguyen Vă Minh
