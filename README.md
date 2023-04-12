@@ -1,2 +1,2 @@
 # BaiTapC
-Nguyen Vă Minh
+Nguyen Văn Minh
